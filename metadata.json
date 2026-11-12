@@ -1,0 +1,6 @@
+{
+  "name": "Feliz Cumpleaños 18 - Tarjeta Especial",
+  "description": "Felicitación mágica de 18 años con carta interactiva, mini juego de lirio virtual floreciente y Saturno 3D con mensajes estelares en sus anillos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
